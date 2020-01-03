@@ -1,6 +1,6 @@
 {
   "name": "alfred-tabs-improved",
-  "version": "0.2.9",
+  "version": "0.3.0",
   "description": "Find/Activate/Close browser tabs.",
   "license": "MIT",
   "repository": "luceat-lux-vestra/alfred-tabs",
@@ -40,17 +40,17 @@
     "tab"
   ],
   "dependencies": {
-    "alfred-notifier": "^0.2.0",
-    "alfy": "^0.6.0",
-    "plist": "^2.1.0",
-    "run-jxa": "^1.2.0",
-    "socket.io": "^2.0.4",
-    "socket.io-client": "^2.0.4"
+    "alfred-notifier": "*",
+    "alfy": "*",
+    "plist": "*",
+    "run-jxa": "*",
+    "socket.io": "*",
+    "socket.io-client": "*"
   },
   "devDependencies": {
-    "alfy-test": "^0.3.0",
-    "ava": "^0.15.2",
-    "xo": "^0.16.0"
+    "alfy-test": "*",
+    "ava": "*",
+    "xo": "*"
   },
   "xo": {
     "esnext": true,
